@@ -1,4 +1,4 @@
-<p>HELLO, GOOD DAY MY NAME IS <b>MOSES.</b></p>
+<p>HELLO, My name is <b>MOSES.</b></p>
 
 <h3 style="text-align: left; border-bottom: 3px solid black; ">ABOUT ME</h3>
 <p style="padding: 5px; text-align: center; font-weight: 300;">

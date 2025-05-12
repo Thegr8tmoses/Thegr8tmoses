@@ -30,7 +30,7 @@ I'm a Computer Science major who studied Principles of <b>Java</b>, <b>Python</b
 
 <h3 style="text-align: left; border-bottom: 1px solid black; ">SOCIALS</h3>
 <h4><span><img src="![image](https://github.com/user-attachments/assets/436a8f7a-4e17-44cc-8aad-21c37f0b4db6)" alt="X-logo" style="width: 40px; height: 40px;"></span> : @thereal_kammaking.</h4>
-<h4><span><img src="![image](https://github.com/user-attachments/assets/fd3dc322-0e56-4c72-bc73-6c2926d892e7)" alt="X-logo" style="width: 40px; height: 40px;"></span> : @thereal.kammaking.</h4>
+<h4><span><img src="![image](https://github.com/user-attachments/assets/fd3dc322-0e56-4c72-bc73-6c2926d892e7)" alt="instagram-logo" style="width: 40px; height: 40px;"></span> : @thereal.kammaking.</h4>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegr8tmoses&show_icons=true&locale=en" alt="thegr8tmoses" /></p>
 
